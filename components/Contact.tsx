@@ -39,7 +39,7 @@ const ContactSection: React.FC = () => {
           {/* Contact Info */}
           <div className="w-full lg:w-1/2">
             <h1 className="text-4xl font-bold text-black mb-8">
-              Let's discuss your<br />project.
+              Let&apos;s discuss your<br />project.
             </h1>
 
             <div className="space-y-6">
