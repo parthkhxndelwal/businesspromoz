@@ -25,3 +25,22 @@ body {
     text-wrap: balance;
   }
 }
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #18181b;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #4a4a4a;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
